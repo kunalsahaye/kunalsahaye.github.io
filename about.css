@@ -1,0 +1,30 @@
+
+    img{
+    height:400px;
+    width:420px;
+    
+}
+.c{
+    display:flex;
+    justify-content: center;
+    position: relative;
+    display: inline-block;
+}
+*{
+    margin-left: 8px;
+}
+.text{
+    position: absolute;
+    top:50%;
+    left:50%;
+    font-size: 50px;
+    text-align: center;
+    color: antiquewhite;
+} 
+
+.first{
+    font-size:23px;
+    color:aliceblue;
+    font-style: italic;
+    color:rgb(126, 84, 84);
+}

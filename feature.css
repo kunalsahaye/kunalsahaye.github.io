@@ -1,0 +1,125 @@
+.a {
+    color: white;
+    height: 200px;
+    width: 700px;
+    border-radius: 50px;
+    background-image: url("yu.jpg");
+    background-size: cover;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.b {
+    color: white;
+    height: 200px;
+    width: 700px;
+    border-radius: 50px;
+    background-image: url("r.jpg");
+    background-size: cover;
+    background-color: rgb(43, 39, 39);
+    font-size: 20px;
+    text-align: center;
+
+
+
+}
+
+
+.c {
+    color: white;
+    height: 200px;
+    width: 700px;
+    border-radius: 50px;
+    background-image: url("gg.jpg");
+    background-size: cover;
+    background-color: rgb(43, 39, 39);
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.d {
+    color: white;
+    height: 200px;
+    width: 700px;
+    border-radius: 50px;
+    background-image: url("d4.jpg");
+    background-size: cover;
+    background-color: rgb(43, 39, 39);
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+.e {
+    color: white;
+    height: 200px;
+    width: 700px;
+    border-radius: 50px;
+    background-image: url("d2.jpg");
+    background-size: cover;
+    background-color: rgb(43, 39, 39);
+    font-size: 20px;
+    text-align: center;
+}
+
+.f {
+    color: white;
+    height: 200px;
+    width: 700px;
+    border-radius: 50px;
+    background-image: url("pu.jpg");
+    background-size: cover;
+    background-color: rgb(43, 39, 39);
+    font-size: 20px;
+    text-align: center;
+}
+
+
+center {
+    font-size: 55px;
+    color: aliceblue;
+    font-family: 'harlow solid italic';
+    margin-top: 50px;
+    background-color: rgba(19, 80, 80, 0.801);
+    line-height: 80px;
+}
+
+* {
+    padding: 40x;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+
+body {
+    background-image: url(".jpg");
+
+}
+
+.text>:nth-child(even) {
+    margin-left: auto;
+}
+
+.text>:nth-child(odd) {
+    margin-right: auto;
+}
+
+
+.sheet {
+    background-color: black;
+    opacity: 0.85;
+    height: 100%;
+}
+
+pre {
+    margin: 0;
+}

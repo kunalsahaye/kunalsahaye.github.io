@@ -1,0 +1,136 @@
+*{
+    padding:10px;
+   
+
+}
+
+
+.container{
+    display:flex;
+    justify-content: center;
+    
+    
+}
+a{
+    color: white;
+    margin-right: 40px;
+   cursor: pointer;
+   text-decoration: none;
+}
+.n{
+    color:aliceblue;
+    font-size: 50px;
+    font-family: 'harlow solid italic';
+    text-align: center;
+    
+}
+.para{
+    display: flex;
+    vertical-align: bottom;
+
+}
+
+    button{
+       
+        margin-left: 10px;
+        border-radius: 20px;
+       cursor: pointer;
+    }
+    .button{
+        display:flex;
+        justify-content: flex-end;
+    }
+    .up{
+        background-color: goldenrod;
+    }
+    .s{
+        height:300px;
+        width: 200px;
+        background-image: url(d1.jpg);
+        background-size: cover;
+        color: aliceblue;
+        border-radius: 20px;
+        font-size: 30px;
+        cursor: pointer;
+    }
+    .q{
+        height:300px;
+        width: 200px;
+        background-image: url(d3.jpg);
+        background-size: cover;
+        color: aliceblue;
+        border-radius: 20px;
+        font-size: 30px;
+        cursor: pointer;
+    }
+    .r{
+        height:300px;
+        width: 200px;
+        background-image: url(d5.jpg);
+        background-size: cover;
+        color: aliceblue;
+        border-radius: 20px;
+        font-size: 30px;
+        cursor: pointer;
+    }
+    .t{
+        height:300px;
+        width: 200px;
+        background-image: url(d2.jpg);
+        background-size: cover;
+        color: aliceblue;
+        border-radius: 20px;
+        font-size: 30px;
+        cursor: pointer;
+    }
+    .f{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    button:hover{
+        background-color:rgb(240, 210, 135);
+        }
+
+        .image-hover{
+            filter:brigthness(50%);
+        }
+        .main{
+            height:100%;
+            width:100%;
+            background-color: rgb(34, 32, 32);
+            padding:0px;
+        }
+        .foot{
+            height:300px;
+            width:100%;
+            background-color:rgb(22, 19, 19);
+            padding:0px;
+            text-align: center;
+        }
+        
+     
+     
+    .img{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 0px;
+    }
+    .new{
+        display: flex;
+        justify-content: center;
+    }
+    
+.p{
+    color: aliceblue;
+    font-size: 25px;
+    margin-top: 0px;
+}
+.l{
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+
